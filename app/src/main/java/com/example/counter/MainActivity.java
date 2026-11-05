@@ -30,7 +30,9 @@ public class MainActivity extends AppCompatActivity {
             "hello my name is khan",
             "You are not a sigma",
             "seriously bro ?",
-            "BOMBLAAACAAAT"
+            "BOMBLAAACAAAT",
+            "SIX SEVEN",
+            "our brains are gone"
     };
 
     int[] imageArray = {
@@ -41,7 +43,9 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.quote5,
             R.drawable.quote6,
             R.drawable.quote7,
-            R.drawable.quote8
+            R.drawable.quote8,
+            R.drawable.quote9,
+            R.drawable.quote10
     };
 
     Random random = new Random();
