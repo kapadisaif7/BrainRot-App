@@ -1,1 +1,1 @@
-An application that displays meme by clicking on the button
+A simple Java application that displays memes just by clicking the button
